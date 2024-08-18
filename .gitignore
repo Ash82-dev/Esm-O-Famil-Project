@@ -28,4 +28,4 @@ replay_pid*
 *.iml
 out/
 
-.gitattributes
+/.gitattributes
